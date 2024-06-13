@@ -1,1 +1,1 @@
-# ai-color-eink
+# The AIColorEInk Library
